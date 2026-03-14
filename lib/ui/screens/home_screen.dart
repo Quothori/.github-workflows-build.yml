@@ -9,7 +9,7 @@ import 'chat_screen.dart';
 import 'network_status_screen.dart';
 import '../screens/sos_screen.dart';
 import '../screens/emergency_alerts_screen.dart';
-import '../../services/emergency_service.dart';
+import '../../core/services/emergency_service.dart';
 
 /// Main screen showing conversation list
 class HomeScreen extends StatefulWidget {
